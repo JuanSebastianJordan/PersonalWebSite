@@ -1,0 +1,75 @@
+/* General Styles */
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+    color: white;
+}
+h2, h3, h4, h5, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: justify;
+}
+ul {
+    list-style-type: circle;
+    color: white;
+}
+/* Styles specific to element */
+.main {
+    background-color: black;
+}
+.header {
+    margin: 20px;
+}
+.banner {
+    width: 100%;
+    height: 325px;
+}
+.collapseI {
+    height: 300px;
+    width: 300px;
+}
+/* Divisory Lines */
+.line{
+    border-style: solid;
+    color: white;
+}
+.line2{
+    border-top: 2px dotted white;
+}
+/* Progress Bars */
+.progress {
+    width: 90%;
+    height: 10px;
+}
+.progress2 {
+    width: 75%;
+    height: 10px;
+}
+.progress3 {
+    width: 60%;
+    height: 10px;
+}
+.avance {
+    margin-top: 10px;
+}
+.imgIcon {
+    height: 50px;
+    width: 50px;
+}
+.hobbies {
+    color: white;
+}
+.footer {
+    margin-bottom: 50px;
+}
+.footer2 {
+    background-color: #212529;
+}
+.btn {
+    margin-bottom: 10px;
+}
+.cards {
+    max-width: 18rem;
+}
